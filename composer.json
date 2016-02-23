@@ -1,0 +1,21 @@
+{
+    "name": "nao-pon/flysystem-cached-extra",
+    "description": "Extra traits for Flysystem cached adapter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naoki Sawada",
+            "email": "hypweb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hypweb\\Flysystem\\Cached\\Extra\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
