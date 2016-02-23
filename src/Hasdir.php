@@ -2,7 +2,7 @@
 
 namespace Hypweb\Flysystem\Cached\Extra;
 
-trait hasdir
+trait Hasdir
 {
     /**
      * Filter the contents from a listing.
