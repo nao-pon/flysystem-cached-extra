@@ -2,7 +2,7 @@
 
 namespace Hypweb\Flysystem\Cached\Extra;
 
-trait disableEnsureParentDirectories
+trait DisableEnsureParentDirectories
 {
     /**
      * Disabled Ensure parent directories of an object.
